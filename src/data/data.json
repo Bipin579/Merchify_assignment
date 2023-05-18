@@ -1,0 +1,162 @@
+[
+  {
+    "question": "What is the shortcut key to copy content in MS Excel?",
+    "options": ["Ctrl+C", "Ctrl+X", "Ctrl+V", "Ctrl+P"],
+    "answer": "Ctrl+C"
+  },
+  {
+    "question": "Which function is used to sum the values in a range of cells?",
+    "options": ["COUNT", "AVERAGE", "SUM", "MAX"],
+    "answer": "SUM"
+  },
+  {
+    "question": "What does the CONCATENATE function do?",
+    "options": [
+      "Adds two numbers",
+      "Joins two or more text strings",
+      "Calculates the average",
+      "Counts the number of cells in a range"
+    ],
+    "answer": "Joins two or more text strings"
+  },
+  {
+    "question": "How do you insert a new worksheet in MS Excel?",
+    "options": [
+      "Right-click on an existing worksheet and select Insert",
+      "Go to the File menu and choose New Worksheet",
+      "Press Ctrl+Shift+N",
+      "None of the above"
+    ],
+    "answer": "Right-click on an existing worksheet and select Insert"
+  },
+  {
+    "question": "Which function is used to find the largest value in a range of cells?",
+    "options": ["MAX", "MIN", "LARGE", "COUNT"],
+    "answer": "MAX"
+  },
+  {
+    "question": "What does the IF function do?",
+    "options": [
+      "Performs a logical test and returns one value if the test is true and another value if the test is false",
+      "Finds the average of a range of cells",
+      "Counts the number of cells that meet specific criteria",
+      "Sorts data in ascending or descending order"
+    ],
+    "answer": "Performs a logical test and returns one value if the test is true and another value if the test is false"
+  },
+  {
+    "question": "Which shortcut key is used to save an Excel workbook?",
+    "options": ["Ctrl+S", "Ctrl+Z", "Ctrl+X", "Ctrl+V"],
+    "answer": "Ctrl+S"
+  },
+  {
+    "question": "What is the function of the VLOOKUP function in Excel?",
+    "options": [
+      "Searches for a value in the leftmost column of a table and returns a value in the same row from a specified column",
+      "Calculates the average of a range of cells",
+      "Counts the number of cells in a range that meet specific criteria",
+      "Sorts data in ascending or descending order"
+    ],
+    "answer": "Searches for a value in the leftmost column of a table and returns a value in the same row from a specified column"
+  },
+  {
+    "question": "How do you freeze panes in MS Excel?",
+    "options": [
+      "Go to the View menu and select Freeze Panes",
+      "Right-click on a cell and choose Freeze Panes",
+      "Press Ctrl+F",
+      "None of the above"
+    ],
+    "answer": "Go to the View menu and select Freeze Panes"
+  },
+  {
+    "question": "Which function is used to find the average value in a range of cells?",
+    "options": ["SUM", "AVERAGE", "COUNT", "MAX"],
+    "answer": "AVERAGE"
+  },
+  {
+    "question": "What does the COUNTIF function do?",
+    "options": [
+      "Counts the number of cells in a range that meet specific criteria",
+      "Finds the largest value in a range of cells",
+      "Performs a logical test and returns one value if the test is true and another value if the test is false",
+      "Sorts data in ascending or descending order"
+    ],
+    "answer": "Counts the number of cells in a range that meet specific criteria"
+  },
+  {
+    "question": "How do you apply a filter to a range of cells in Excel?",
+    "options": [
+      "Go to the Data tab and click on the Filter button",
+      "Right-click on a cell and choose Apply Filter",
+      "Press Ctrl+Shift+F",
+      "None of the above"
+    ],
+    "answer": "Go to the Data tab and click on the Filter button"
+  },
+  {
+    "question": "Which function is used to find the smallest value in a range of cells?",
+    "options": ["MIN", "MAX", "SMALL", "COUNT"],
+    "answer": "MIN"
+  },
+  {
+    "question": "What does the COUNT function do?",
+    "options": [
+      "Counts the number of cells that meet specific criteria",
+      "Calculates the average of a range of cells",
+      "Joins two or more text strings",
+      "Sorts data in ascending or descending order"
+    ],
+    "answer": "Counts the number of cells that meet specific criteria"
+  },
+  {
+    "question": "How do you format cells as currency in Excel?",
+    "options": [
+      "Go to the Format menu and select Currency",
+      "Right-click on a cell and choose Currency",
+      "Press Ctrl+Shift+$",
+      "None of the above"
+    ],
+    "answer": "Press Ctrl+Shift+$"
+  },
+  {
+    "question": "Which function is used to find the total number of cells in a range?",
+    "options": ["COUNT", "SUM", "AVERAGE", "MAX"],
+    "answer": "COUNT"
+  },
+  {
+    "question": "What does the SUMIF function do?",
+    "options": [
+      "Adds the values in a range of cells that meet specific criteria",
+      "Finds the average of a range of cells",
+      "Joins two or more text strings",
+      "Sorts data in ascending or descending order"
+    ],
+    "answer": "Adds the values in a range of cells that meet specific criteria"
+  },
+  {
+    "question": "How do you insert a chart in MS Excel?",
+    "options": [
+      "Go to the Insert tab and click on the Chart button",
+      "Right-click on a cell and choose Insert Chart",
+      "Press Ctrl+Shift+C",
+      "None of the above"
+    ],
+    "answer": "Go to the Insert tab and click on the Chart button"
+  },
+  {
+    "question": "Which function is used to round a number to the nearest integer or specified decimal places?",
+    "options": ["ROUND", "CEILING", "FLOOR", "TRUNC"],
+    "answer": "ROUND"
+  },
+  {
+    "question": "What does the CONCAT function do?",
+    "options": [
+      "Joins two or more text strings",
+      "Adds two numbers",
+      "Calculates the average",
+      "Counts the number of cells in a range"
+    ],
+    "answer": "Joins two or more text strings"
+  }
+]
