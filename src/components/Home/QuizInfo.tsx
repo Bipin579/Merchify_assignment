@@ -18,26 +18,26 @@ const QuizInfo = () => {
       <Typography fontWeight={"550"} mt={1}>
         The Quiz includes
       </Typography>
-      <Box display={"flex"} columnGap={2} pt={1}>
+      <Box display={"flex"} columnGap={2} pt={2}>
         <MdOutlineAutoAwesomeMotion color="green" size={20} />
         <Typography fontSize={"14px"} fontWeight={"bold"} color="grey">
           1 Attempt Daily
         </Typography>
       </Box>
 
-      <Box display={"flex"} columnGap={2} pt={1}>
+      <Box display={"flex"} columnGap={2} pt={2}>
         <BsQuestionCircle color="green" size={20} />
         <Typography fontSize={"14px"} fontWeight={"bold"} color="grey">
           5 Questions
         </Typography>
       </Box>
-      <Box display={"flex"} columnGap={2} pt={1}>
+      <Box display={"flex"} columnGap={2} pt={2}>
         <AiOutlineClockCircle color="green" size={20} />
         <Typography fontSize={"14px"} fontWeight={"bold"} color="grey">
           5 Minutes
         </Typography>
       </Box>
-      <Box display={"flex"} columnGap={2} pt={1}>
+      <Box display={"flex"} columnGap={2} pt={2}>
         <HiOutlineDocumentText size={20} />
         <Typography fontSize={"14px"} fontWeight={"bold"} color="grey">
           50% Passing Percentage
@@ -47,7 +47,7 @@ const QuizInfo = () => {
         display={"flex"}
         color="gold"
         columnGap={2}
-        pt={1}
+        pt={2}
         alignItems={"center"}
       >
         <GiAlliedStar size={20} />

@@ -165,7 +165,7 @@ const Result: React.FC = () => {
               "transparent",
               "transparent",
             ]}
-            pb={4}
+            pb={1.5}
           >
             <ShareIcon />{" "}
             <Typography fontWeight={"bold"}>Share with your friends</Typography>

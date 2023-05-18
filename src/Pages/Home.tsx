@@ -7,11 +7,11 @@ import { Link } from "react-router-dom";
 type Props = {};
 
 const Home: React.FC<Props> = () => {
-  window.location.reload();
+  // window.location.reload();
   return (
     <Box
       px={[2, 4, 6, 8, 10]}
-      py={[1, 2, 3, 4, 5]}
+      py={[1, 2, 2, 2, 2]}
       display={"flex"}
       bgcolor={"#ECF1F4"}
       minHeight={"100vh"}
