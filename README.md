@@ -1,46 +1,69 @@
-# Getting Started with Create React App
+<h1 align="center" id="title">Quiz App</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center"><img src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/6e7b1e7f-866d-4295-9113-18d1a8b2ca27" alt="project-image" width="180" height="200/"></p>
+<hr/>
 
-## Available Scripts
 
-In the project directory, you can run:
+## :space_invader:Tech Stack Used:
 
-### `npm start`
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li>HTML</a></li>
+    <li>Css</a></li>
+    <li>Javascript</li>
+    <li>React.js</li>
+    <li>Meterial UI</li>
+  </ul>
+</details>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
 
-### `npm test`
+## :accessibility: How to run it into your local system:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- At first do git clone of this repositary
+```
+https://github.com/Bipin579/Merchify_assignment.git
+```
+- After cloning it into your local system install all node modules using (npm install)
+```
+npm install
+```
+- At last run the command (npm start)
+```
+npm start
+```
 
-### `npm run build`
+## 🏛️Features:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Display Quiz Display Screen
+- A Quiz Attempt Screen with timer
+- When timer ends it will navigate to result page
+- On result page it will show avg time taken and and total time taken for giving answer.
+- Responsive for both mobile and desktop.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## :star2: About the Project
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+This Assigminent which was given by Merchify.
 
-### `npm run eject`
+## :camera: Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+### HomePage
+| Desktop View | Mobile View |
+| ------ | ------ |
+| <img width="400" height="200" src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/2c547e79-37b0-40dc-bb94-4c21ba10d88b"  /> | <img align="center"  width="100" height="200" src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/e0ed4a6c-97b4-4d1a-b003-b0875c27c419"> |
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+### Quiz
+| Desktop View | Mobile View |
+| ------ | ------ |
+| <img width="400" height="200" src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/3e11b9fd-5e91-4220-bb7e-411e21c97e52"  /> | <img align="center"  width="100" height="200" src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/114d05e8-ac64-48e5-bd3f-bb1bee74c6bb"> |
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+
+### ResultPage
+| Desktop View | Mobile View |
+| ------ | ------ |
+| <img width="400" height="200" src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/17d5c815-db0b-46ed-b971-6061a5eb0f7b"  /> | <img align="center"  width="100" height="200" src="https://github.com/Bipin579/Merchify_assignment/assets/110052834/1d213a26-8fa8-4eb2-9d40-e2498704bf0d"> |
